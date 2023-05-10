@@ -5,9 +5,9 @@ Repositorio con la documentación y códigos de mi propio manual para PHP de niv
 Guía de PHP para principiantes
 Esta es una guía para principiantes sobre PHP. La guía cubre los conceptos básicos de programación en PHP, así como las características más avanzadas de la plataforma.
 
-***En la carpeta de Teoria tenemos los ficheros del manual.***[Enlace a la carpeta de teoría](/teoria/Facil_JorgeMoya_Manual_php.pdf)
+**[Enlace al PDF del manual](/teoria/Facil_JorgeMoya_Manual_php.pdf)**
 
-***En la carpeta de Códigos tenemos los diferentes ficheros o directorios que se usan en este manual.***
+**[Enlace al directorio con los diferentes codigos del manual](/codigos/)**
 
 # Tabla de contenidos
 1. Introducción
