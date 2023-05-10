@@ -4,7 +4,7 @@
 // Tipo de datos escalares
 $int_var = 10; // Entero
 $float_var = 3.14; // Flotante
-$string_var = "Hola mundo"; // Cadena
+$string_var = "Hola mundo"; // Cadena o tring
 $bool_var = true; // Booleano
 
 // Tipo de datos compuestos
