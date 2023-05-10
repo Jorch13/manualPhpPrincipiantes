@@ -1,0 +1,13 @@
+# Ignorar archivos y carpetas específicos
+.idea/
+.vscode/
+node_modules/
+composer.phar
+
+# Ignorar archivos que contengan información confidencial
+config.php
+secrets.txt
+
+# Ignorar archivos generados automáticamente
+vendor/
+*.log
