@@ -1,3 +1,5 @@
+![Portada](assets/Portada.png?raw=true)
+
 # Manual Php Principiantes
 Repositorio con la documentación y códigos de mi propio manual para PHP de nivel principiante.
 Guía de PHP para principiantes
