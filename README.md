@@ -10,6 +10,7 @@ Se explican las nociones básicas sobre:
 - Operadores
 - Estructuras de control
 - Funciones
+- Manejo de Arrays
 - Trabajo con formularios
 - Trabajo con archivos / ficheros
 - Introducción a la POO
