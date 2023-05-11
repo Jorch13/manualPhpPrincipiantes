@@ -44,5 +44,7 @@ Agradecer a mi familia por el apoyo y a Christian, por afianzar en mi cabeza la 
 ## Autor: Jorch13
 
 Jorge Moya Delgado
+
 jorgemd1308@gmail.com
+
 [Perfil de LinkedIn](https://www.linkedin.com/in/jorgemoyad/)
