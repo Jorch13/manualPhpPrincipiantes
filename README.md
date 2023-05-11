@@ -34,10 +34,10 @@ Agradecer a mi familia por el apoyo y a Christian, por afianzar en mi cabeza la 
 
 2. Introducción a PHP
 3. Instalación y configuración del entorno de desarrollo
-4. [Tipos de datos y variables](/codigos/)
-5. Operadores
+4. [Tipos de datos y variables](/codigos/tiposDatos)
+5. [Operadores](/codigos/operadores)
 6. Estructuras de control de flujo
-7. Funciones
+7. [Funciones](/codigos/funciones/)
 8. Arrays
 9. Trabajo con formularios
 10. Trabajo con archivos
