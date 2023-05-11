@@ -73,6 +73,15 @@ $contFrutas = count($Frutas);
 print '<h4>Contando los elementos del array // count($Frutas): </h4>';
 print 'Elementos en el array: '.$contFrutas; //Devuelve 5
 
+//in_array() devuelve true o false dependiendo si el valor existe en el Array
+$hayValor = in_array('Pera', $Frutas);
+print '<h4>Comprobar si existe un valor // in_array(): </h4>';
+if ($hayValor === true) {
+    print 'El valor se encuentra en el Array';
+} else {
+    print 'El valor no se encuentra en el Array';
+}
+
 //array_push() agrega un elemento al final del array
 array_push($Frutas, 'Melon', 'Sandia', 'Melocoton');
 print '<h4>Añadir elementos al final del array // array_push($Frutas): </h4>';
@@ -124,5 +133,22 @@ var_dump($ventas);
 ksort($ventas);
 print '<h4>Ordenando un Array asociativo por claves // ksort(): </h4>';
 var_dump($ventas);
+
+//array_key_exists() devuelve true o false si existe o no cierta clave en un array
+$existe = array_key_exists('Porras', $ventas);
+print '<h4>Comprobar si existe una clave en un Array // array_key_exists(): </h4>';
+if ($existe === true) {
+    print 'Si existe';
+} else {
+    print 'No existe';
+}
+
+//array_flip() para darle la vuelta a las claves y valores de un Array
+$vuelta = array_flip($ventas);
+print '<h4>Intercambiando las llaves por los valores // array_flip(): </h4>';
+var_dump($vuelta);
+
+
+
 
 
