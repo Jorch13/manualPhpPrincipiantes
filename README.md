@@ -48,3 +48,7 @@ Jorge Moya Delgado
 jorgemd1308@gmail.com
 
 [Perfil de LinkedIn](https://www.linkedin.com/in/jorgemoyad/)
+
+# Recursos adicionales 
+- [Manual oficial de PHP](https://www.php.net/manual/es/index.php)
+- [Guia W3Schools de PHP]()
