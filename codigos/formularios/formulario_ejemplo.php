@@ -20,9 +20,23 @@
             <option value="employed">Empleado</option>
             <option value="teacher">Enseñador</option>
         </select>
+        
+        <label for="aficion">Aficiones: </label>
+        <input type="radio" name="cinema" id="cinema">
+        <input type="radio" name="sport" id="sport">
+        <input type="radio" name="read" id="read">
+        <input type="radio" name="watchTv" id="watchTv">
+
+        <label for="desc">Descripción personal: </label>
+        <textarea name="desc" id="desc" cols="30" rows="10"></textarea>
 
         <input type="submit" value="Enviar formulario">
     </form>
+    <footer>
+        <a href="https://twitter.com/jorch13_13">Mi twitter</a>
+        <a href="https://instagram.com/jorch13_13">Mi Instagram</a>
+        <a href="twitter.com/jorch13_13">Mi LinkedIn</a>
+    </footer>
 </body>
 </html>
 
