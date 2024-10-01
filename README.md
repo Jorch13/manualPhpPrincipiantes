@@ -38,7 +38,7 @@ Agradecer a mi familia por el apoyo y a Christian, por afianzar en mi cabeza la 
 7. [Funciones](/codigos/funciones/)
 8. [Arrays](/codigos/arrays)
 9. Trabajo con formularios
-10. Trabajo con archivos
+10. [Trabajo con archivos](codigos/archivos)
 11. Introducción a la Programación Orientada a Objetos (POO)
 
 ## Autor: Jorch13
